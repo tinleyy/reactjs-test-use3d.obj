@@ -2,6 +2,6 @@
 # libaray
 https://docs.pmnd.rs/react-three-fiber/api/objects
 
-# model used 
+# 3D model used reference
 https://alpha.womp3d.com/discover?tag=%233dmodel
 
